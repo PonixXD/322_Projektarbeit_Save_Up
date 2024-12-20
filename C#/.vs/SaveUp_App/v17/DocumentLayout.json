@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mb_hu\\OneDrive\\Dokumente\\GitHub\\322_Projektarbeit_Save_Up\\C#\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94843925-02B8-40F8-8390-167BD9A3ED0B}|SaveUp_App\\SaveUp_App.csproj|c:\\users\\mb_hu\\onedrive\\dokumente\\github\\322_projektarbeit_save_up\\c#\\saveup_app\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{94843925-02B8-40F8-8390-167BD9A3ED0B}|SaveUp_App\\SaveUp_App.csproj|solutionrelative:saveup_app\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94843925-02B8-40F8-8390-167BD9A3ED0B}|SaveUp_App\\SaveUp_App.csproj|c:\\users\\mb_hu\\onedrive\\dokumente\\github\\322_projektarbeit_save_up\\c#\\saveup_app\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94843925-02B8-40F8-8390-167BD9A3ED0B}|SaveUp_App\\SaveUp_App.csproj|solutionrelative:saveup_app\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedHeight": 147,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\mb_hu\\OneDrive\\Dokumente\\GitHub\\322_Projektarbeit_Save_Up\\C#\\SaveUp_App\\Models\\Items.cs",
+              "RelativeDocumentMoniker": "SaveUp_App\\Models\\Items.cs",
+              "ToolTip": "C:\\Users\\mb_hu\\OneDrive\\Dokumente\\GitHub\\322_Projektarbeit_Save_Up\\C#\\SaveUp_App\\Models\\Items.cs",
+              "RelativeToolTip": "SaveUp_App\\Models\\Items.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:43:12.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\mb_hu\\OneDrive\\Dokumente\\GitHub\\322_Projektarbeit_Save_Up\\C#\\SaveUp_App\\AppShell.xaml",
+              "RelativeDocumentMoniker": "SaveUp_App\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\mb_hu\\OneDrive\\Dokumente\\GitHub\\322_Projektarbeit_Save_Up\\C#\\SaveUp_App\\AppShell.xaml",
+              "RelativeToolTip": "SaveUp_App\\AppShell.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-20T13:42:40.08Z",
+              "EditorCaption": ""
             }
           ]
         },
